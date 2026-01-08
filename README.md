@@ -49,6 +49,33 @@ Atuei como **Analista de Redes (NOC)**, onde liderei a implantação completa do
 
 ---
 
+<div align="center">
+  <h3>🛠️ Serviços Técnicos & Infraestrutura</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Montagem de Racks & Estrutura</h3>
+      <ul>
+        <li><strong>Organização:</strong> Identificação de cabeamento e Patch Panels.</li>
+        <li><strong>Instalação:</strong> Montagem física de OLTs, Switches e Servidores.</li>
+        <li><strong>Elétrica:</strong> Dimensionamento de energia e sistemas de redundância.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Infraestrutura de Redes</h3>
+      <ul>
+        <li><strong>GPON:</strong> Configuração e provisionamento de redes de fibra.</li>
+        <li><strong>Monitoramento:</strong> Gestão de performance via OLTs e ferramentas NOC.</li>
+        <li><strong>Topologia:</strong> Planejamento de redes lógicas e físicas (FTTH).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📫 Vamos nos conectar?
 * [LinkedIn](https://www.linkedin.com/in/araujosmarc/)
 * [E-mail](msilva.araujo178@gmail.com)
