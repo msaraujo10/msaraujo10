@@ -50,5 +50,5 @@ Atuei como **Analista de Redes (NOC)**, onde liderei a implantação completa do
 ---
 
 ### 📫 Vamos nos conectar?
-* [LinkedIn]https://www.linkedin.com/in/araujosmarc/
-* [E-mail]msilva.araujo178@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/araujosmarc/)
+* [E-mail](msilva.araujo178@gmail.com)
