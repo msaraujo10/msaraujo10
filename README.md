@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou o Marcos Araujo 👋
 
-<!--
-**msaraujo10/msaraujo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** (Estácio) com sólida experiência técnica em monitoramento de redes e infraestrutura (NOC), atualmente focado no desenvolvimento de aplicações web modernas com **React.js**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Projetos em Destaque
+
+Abaixo estão alguns dos meus projetos principais, onde aplico conceitos de componentização, responsividade e integração:
+
+#### 1. 🏎️ MRB Multimarcas SJC
+Projeto comercial desenvolvido para uma revenda de veículos, com foco em performance e SEO.
+* **Tech Stack:** React.js, JavaScript, CSS3.
+* **Diferencial:** Domínio próprio e layout totalmente responsivo.
+* [🔗 Acessar Site Oficial](https://mrbmultimarcassjc.com/)
+
+#### 2. 🍿 BB Vending
+Plataforma interativa (Catálogo/Landing Page) para serviços de Vending Machines.
+* **Tech Stack:** React.js, Vercel Hosting.
+* **Diferencial:** Navegação fluida e design focado em conversão.
+* [🔗 Ver no Vercel](https://bbvending-site.vercel.app/)
+
+#### 3. 🧹 Dimod Clean
+Site desenvolvido para apresentação de serviços especializados de limpeza.
+* **Tech Stack:** React.js, Styled Components.
+* **Diferencial:** Interface limpa e intuitiva, seguindo as melhores práticas de UI/UX.
+* [🔗 Ver no Vercel](https://dimodclean.vercel.app/)
+
+---
+
+### 🛠️ Minhas Habilidades
+
+**Desenvolvimento:**
+* ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Infraestrutura & Monitoramento (NOC):**
+* ![Zabbix](https://img.shields.io/badge/Zabbix-F11606?style=for-the-badge&logo=Zabbix&logoColor=white)
+* ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+* Monitoramento de OLTs/PONs, Análise de Dados e Redes.
+
+---
+
+### 📈 Trajetória Profissional
+Atuei como **Analista de Redes (NOC)**, onde liderei a implantação completa do ecossistema **Zabbix + Grafana** para monitoramento de infraestrutura crítica. Essa experiência me deu um forte **senso analítico** e atenção aos detalhes, competências que hoje aplico na escrita de códigos limpos e na resolução de problemas complexos em software.
+
+---
+
+### 📫 Vamos nos conectar?
+* [LinkedIn]https://www.linkedin.com/in/araujosmarc/
+* [E-mail]msilva.araujo178@gmail.com
